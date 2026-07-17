@@ -1,7 +1,7 @@
 const Vision = () => {
   return (
     <div>
-      <h1>My Vision | วิสัยทัศน์</h1>
+      <h1>Vision | วิสัยทัศน์</h1>
     </div>
   );
 };
